@@ -1,0 +1,44 @@
+h1,h2,span{
+	color:red;
+}
+
+div p {
+	font-weight: 600;
+}
+
+ul li>span{
+	font-weight: 600;
+}
+ol li + li {
+	list-style: none;
+}
+
+h3 ~ h4 {
+	color: aqua;
+}
+
+nav {
+	height: 100px;
+	width: 100px;
+	background-color: lime;
+}
+main {
+	height: 100px;
+	width: 100px;
+	background-color: aqua;
+	border-radius: 50px;
+	margin-top: 10px;
+
+}
+aside {
+	height: 100px;
+	width: 100px;
+	background-color: aqua;
+
+	
+}
+footer {
+	height: 100px;
+	width: 100px;
+	background-color: aqua;
+}
